@@ -1,0 +1,28 @@
+<!-- <aside> -->
+<!-- 	<div> -->
+<!-- 		<div> -->
+<!-- 			<h3>LATEST POSTS</h3> -->
+<!-- 		</div> -->
+<!-- 		<div> -->
+<!-- 			<ul> -->
+<!-- 				{{ range first 5 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }} -->
+<!-- 				<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li> -->
+<!-- 				{{ end }} -->
+<!-- 			</ul> -->
+<!-- 		</div> -->
+<!-- 	</div> -->
+<!-- </aside> -->
+<!-- Navigation-->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+    <!-- <span data-text='unknown.flowers' class="glitch">unknown.flowers</span>-->
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav">
+		    {{ range (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+            <li class="nav-item glitch" data-text="azur"><a class="nav-link js-scroll-trigger" href="{{ .RelPermalink }}">{{ .Page.Params.Link }}</a></li>
+			{{ end }}
+        </ul>
+    </div>
+</nav>

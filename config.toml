@@ -1,0 +1,4 @@
+baseURL = 'http://unknown.flowers/'
+languageCode = 'en-us'
+title = 'Unknown Flowers'
+theme = "blank"

@@ -1,0 +1,29 @@
+{{ define "main" }}
+	<main>
+		<article>
+            <h1 id="letters">{{ .Title }}</h1>
+			<hr>
+			<!-- <h5 datetime="{{ .Date.Format "2006-01-02T15:04:05" }}">{{ .Date.Format "02.01.2006 15:04" }}</h5> -->
+			<br \>
+			<br \>
+			<div>
+				{{ .Content }}
+			</div>
+			{{ with .Params.tags }}
+			<div>
+				<ul id="tags">
+					{{ range . }}
+					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+					{{ end }}
+				</ul>
+			</div>
+			{{ end }}
+			{{ with .Site.DisqusShortname }}
+			<div>
+				{{ template "_internal/disqus.html" . }}
+			</div>
+			{{ end }}
+			<br \>
+		</article>
+	</main>
+{{ end }}
