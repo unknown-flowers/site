@@ -21,7 +21,7 @@
     <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav">
 		    {{ range (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-            <li class="{{ .Page.Params.Color }} nav-item glitch" data-text="azur"><a class="nav-link js-scroll-trigger {{ .Page.Params.Color }}" href="{{ .RelPermalink }}">{{ .Page.Params.Link }}</a></li>
+            <li class="{{ .Page.Params.Color }} nav-item"><a class="nav-link js-scroll-trigger {{ .Page.Params.Color }}" href="{{ .RelPermalink }}">{{ .Page.Params.Link }}</a></li>
 			{{ end }}
         </ul>
     </div>
