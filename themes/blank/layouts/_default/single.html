@@ -1,8 +1,8 @@
 {{ define "main" }}
 	<main>
 		<article>
-            <h1 id="letters">{{ .Title }}</h1>
-			<hr>
+            <h1 id="letters" class="{{ .Page.Params.Color }}">{{ .Title }}</h1>
+			<hr class="hr-{{ .Page.Params.Color }}">
 			<!-- <h5 datetime="{{ .Date.Format "2006-01-02T15:04:05" }}">{{ .Date.Format "02.01.2006 15:04" }}</h5> -->
 			<br \>
 			<br \>

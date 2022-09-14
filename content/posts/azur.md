@@ -3,6 +3,7 @@ title: "azur"
 date: 2022-09-13T13:25:38+02:00
 draft: false
 link: "azur"
+color: "azure"
 ---
 
 #### _l'amore_

@@ -63,6 +63,8 @@
   --bs-body-line-height: 1.5;
   --bs-body-color: #000;
   --bs-body-bg: #fff;
+  --azure: #007fff;
+  --red: #ff0000;
 }
 
 *,
@@ -75,6 +77,14 @@
   :root {
     scroll-behavior: smooth;
   }
+}
+
+.azure {
+  color: var(--azure);
+}
+
+.red {
+  color: var(--red);
 }
 
 body {
@@ -90,12 +100,18 @@ body {
 }
 
 hr {
-	border-top: 1px solid #ff0000;
-	/* border-top: 1px dotted #ff0000; */
-	/* border-bottom: 1px dotted #fff; */
+	border-top: 1px solid;
 	border-bottom: none;
 	border-right: none;
 	border-left: none;
+}
+
+.hr-azure {
+    border-color: var(--azure);
+}
+
+.hr-red {
+    border-color: var(--red);
 }
 
 .gray-line {
@@ -119,11 +135,9 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 
 h1, .h1{
   font-size: 1.2em;
-  color: #ff0000;
 }
 
 h2, .h2{
-  color: #ff0000;
 }
 
 

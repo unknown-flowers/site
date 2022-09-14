@@ -3,6 +3,7 @@ title: "(love) letters to an unkown woman"
 date: 2022-09-13T14:07:29+02:00
 draft: false
 link: "letters"
+color: "red"
 ---
 
 ### letter to an unknown woman
@@ -607,7 +608,7 @@ we didn’t and in future states we probably won’t. But if
 time is eternal, it will become a perfect circle again, so we
 will become again. And if the current state will never recur,
 still there is no need to be scared. Because all our fears will
-44die with us and all our tears will dry. And we will be part
+die with us and all our tears will dry. And we will be part
 of what is part of us. Always. I am part of you and you are
 part of me.
 
