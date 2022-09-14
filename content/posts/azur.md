@@ -6,7 +6,7 @@ link: "azur"
 color: "azure"
 ---
 
-#### _l'amore_
+### _l'amore_
 
 gray\
 gray\
@@ -32,8 +32,8 @@ your heart, italian marble.\
 <br>
 {{< /rawhtml >}}
 
-#### _tourguide_
-\
+### _tourguide_
+
 their fear fell burning,\
 a sun poured over them.\
 the brothel's ruins,\
@@ -64,8 +64,9 @@ and their ashen silt swallows us slowly.\
 <br>
 {{< /rawhtml >}}
 <!-- -->
-#### _ocean view fuck_
-\
+
+### _ocean view fuck_
+
 between us,\
 sweat.\
 salt.\
@@ -83,8 +84,9 @@ azur.\
 <br>
 {{< /rawhtml >}}
 <!-- -->
-#### _infinity balcony_
-\
+
+### _infinity balcony_
+
 walking in a living painting, every step a new picture.
 a reality tesselated with 4d oil paintings.\
 \
@@ -113,8 +115,9 @@ finding without searching.\
 <br>
 {{< /rawhtml >}}
 <!-- -->
-#### _um uns in uns kornblumenblau_
-\
+
+### _um uns in uns kornblumenblau_
+
 um uns\
 ein meer.\
 horizont azur.\
@@ -133,8 +136,9 @@ unendlichkeit azur.\
 <br>
 {{< /rawhtml >}}
 <!-- -->
-#### _Alimentari Powercut_
-\
+
+### _Alimentari Powercut_
+
 The tiny grocery shop, selling the overripe, juicy local fruits and olives.
 Rancid cheese and dry bread.
 The elderly Signores drunk, every night.
@@ -181,8 +185,9 @@ Sleeping with their eyes wide open (because they don't have lids).
 <br>
 {{< /rawhtml >}}
 <!-- -->
-#### _sea-legs_
-\
+
+### _sea-legs_
+
 the organic shapes of the little houses built into the steep coastal cliffs,
 their geometry seems to be shaking after half a day on the boat.\
 \

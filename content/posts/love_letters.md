@@ -28,7 +28,7 @@ do you think of me as well?\
 
 I am trapped on this island by a typhoon. It went on for an
 entire day and it blew my busy travelling schedule towards
-the open sea.\
+the open sea.
 The wind is still strong over the lagoon, as I am sitting here
 on the stony beach, thinking of a requiem for the harbour’s
 clock that was broken by the storm. While I am watching
@@ -68,16 +68,15 @@ engineered society. They reached a higher level of civilization by even engineer
 interface for any kind of human interactions, a mask. It
 seems. So probably bowing is what they do at the funerals
 as well, maybe they even do this to newborn babies, who
-knows. And final bow for the deceased, who might bow too
+knows. A final bow for the deceased, who might bow too
 a final time to full-fill their part of the protocol. I wouldn’t
-be surprised. So I buy a few beers and bow a few times as
-well. Then dissolve the worries, caused by this unexpected
+be surprised. So I buy a few beers and bow a few times, then dissolve the worries, caused by this unexpected
 exile from time, to finally send them ashore with a detour
 through my bladder. Give them a final bow and send them
 on a journey to the same unknown destination my schedule
 was taken to by the wind. The same destination time was
 abducted to. The same destination the erotic oranges, that
-13were blown into the ocean, are heading towards, where even
+were blown into the ocean, are heading towards, where even
 the juiciest fruits and the brightest colours will eventually
 have to go. The same place where you might be waiting for
 me.
@@ -107,7 +106,7 @@ clocks. Floating, with you. Slowly.
 
 <!-- -->
 
-## (a)symmetrie
+## (a)symmetrie { class="red"}
 
 {{< rawhtml >}}
 <br>
@@ -253,7 +252,7 @@ in dich. hellwach.\
 
 <!-- -->
 
-## rhythmus
+## rhythmus { class="red"}
 
 {{< rawhtml >}}
 <br>
@@ -266,28 +265,24 @@ in dich. hellwach.\
 ### Poems (we will never read)
 
 The term of writing poetry is wrong. Its just writing down
-a thought. A result of a thought process or gedankenexperi-
-ment in a hypothetical parallel reality, phrasing it in a way
+a thought. A result of a thought process or gedankenexperiment in a hypothetical parallel reality, phrasing it in a way
 that its obviousness is obvious. Writing it down is at most
 documenting and archiving it in an external brain, sharing
 it’s thoughts with others. Or not. The process leading to
 this thought is a reflection of the way someone lives and
 thinks. Thus, poetry is not an act of writing but living.
+
 A poem existed before someone thought it, it just waits
 to be decoded. Their patterns exist all around us, in the
 subway, on the street, in the clouds, on Sentinel Island, in
 the grocery store, in you and me, in network protocols, in
 silicon chips, in π or e, in patterns and numbers, entropy,
-distortion, symmetrie, in animals, in olive trees, black ho-
-les and the planets, in a birds view, under a microscope,
-in bodies, porn, music, in death and birth, probably every-
-where. Hence, poetry is not an act of writing but reading.
+distortion, symmetrie, in animals, in olive trees, black holes and the planets, in a birds view, under a microscope,
+in bodies, porn, music, in death and birth, probably everywhere. Hence, poetry is not an act of writing but reading.
 Reading the (not) obvious and phrasing and connecting it
-in the (not) obvious way, to the context it currently ap-
-pears in, to the person it appears in. Like this person and
+in the (not) obvious way, to the context it currently appears in, to the person it appears in. Like this person and
 context a poem might be transient and ephemeral and may
-disappear at any time along with them. Likely, the very sa-
-me poem will re-appear in different times and contexts and
+disappear at any time along with them. Likely, the very same poem will re-appear in different times and contexts and
 might get decoded accordingly anew, with new tools, new
 language, new thoughts, as soon as its pattern is obvious
 to someone.
@@ -296,22 +291,22 @@ Thus, poems are probably modular, abstract patterns of
 thinking, decoupled and abstracted from but also tightly
 bound to the context they appear in, to the person they
 appear in. Being abstract and concrete at the same time,
-their abstraction makes them applicable to different con-
-texts and their concreteness connects them to the reader
+their abstraction makes them applicable to different contexts and their concreteness connects them to the reader
 and thus gives them access to the abstraction and thereby
 the ability to switch context mentally and emotionally as
 well. If they see it. If they allow it.
 
 Thus, poems are for rhythm, for emphasis, for essence. Not
-rhythmic patterns of syntax or language but rhythmic pat-
-terns of thinking. Not a way of writing or a literary form
+rhythmic patterns of syntax or language but rhythmic patterns of thinking. Not a way of writing or a literary form
 but a way of reading life, reading the pathos of things.
+
 And sometimes, just a drunken thought that leaves no
 trace, dying in the very same second it gets born. But even
 if still born, invisible or encrypted, it just feels contenting
 to know that they are surrounding us. Like it is contenting
-to know that you exist. With many faces in many and peo-
-ple. Somewhere. Invisibly to me like an unread poem.
+to know that you exist.
+Somewhere. With many faces in many people. Yet, invisibly to me like an unread poem.
+
 \
 /\
 \
@@ -395,7 +390,7 @@ up. i dream, i dream i wake up.\
 
 <!-- -->
 
-## (un)endlichkeit
+## (un)endlichkeit { class="red"}
 
 {{< rawhtml >}}
 <br>
@@ -456,13 +451,6 @@ being still in love with each other?\
 \
 (isfahan / 1630)
 
-{{< rawhtml >}}
-<br>
-<hr class="m-0 gray-line" />
-<br>
-{{< /rawhtml >}}
-
-<!-- -->
 {{< rawhtml >}}
 <br>
 <hr class="m-0 gray-line" />
@@ -591,8 +579,9 @@ When I was 7 a friend of my parents died. I realized that he
 will be gone forever. The concept of eternity suddenly became real, the concept of my own eventual death became
 real. Within a second. Parents, grand parents, sister, friends, dog. We all will be gone for eternity. Eternity rushed
 into my awareness, into my reality, into all the innocence.
-It was violently burned into my synapses permanently. Prior to this, I was playing with toys in a bathtub. Now, I was
-floating in an infinite ocean without knowing how to swim.
+It was violently burned into my synapses permanently.
+Prior to this, live was like playing with toys in a bathtub.
+Now, suddenly, I was floating in an infinite ocean without knowing how to swim.
 Alone.
 
 I think all humans have to go through this experience and
@@ -625,7 +614,7 @@ part of me.
 
 <!-- -->
 
-## schatten
+## schatten { class="red"}
 
 {{< rawhtml >}}
 <br>
@@ -780,7 +769,17 @@ with the waves.\
 
 <!-- -->
 
-### angstmise en abyme (placed into the abyss)
+## angst { class="red"}
+
+{{< rawhtml >}}
+<br>
+<hr class="m-0 gray-line" />
+<br>
+{{< /rawhtml >}}
+
+<!-- -->
+
+### mise en abyme (placed into the abyss)
 
 do i stare in the mirror or\
 does the mirror stare in me?\
@@ -806,6 +805,11 @@ Of losing something essential, losing the part of myself that I just found in yo
 It oscillates, sharp and strident like a high pitch crystalline sound, between my mind, my heart, my dick.
 As if all the truth I found in you, so fragile like it was made from glass, shatters in an echoic chamber.
 
+\
+/\
+\
+(Fearing fear / Berlin / 2020)
+
 {{< rawhtml >}}
 <br>
 <hr class="m-0 gray-line" />
@@ -823,7 +827,7 @@ of my fear\
 \
 /\
 \
-(in the snow / 2020)
+(playing in the snow / 2020)
 
 {{< rawhtml >}}
 <br>
@@ -870,7 +874,7 @@ will you leave like you came?\
 
 <!-- -->
 
-### trust
+## trust { class="red"}
 
 {{< rawhtml >}}
 <br>
@@ -984,6 +988,7 @@ been someone before me. It is okay that there might be
 someone after me, if our paths diverged. But there can’t
 be someone in between. This would be the one after me
 necessarily.
+
 For me, there is a thin delicate membrane that contains us.
 That connects us wherever we go. That protects something
 like our very own innocence and purity, the things that we
@@ -994,7 +999,8 @@ in between us, would deflorate this membrane from the
 inside and would let us drop unprotected into the void. We
 would drift apart into infinity to where we came from, until
 there will be an infinite distance between us again, like an
-astronaut drifting through space.
+astronaut drifting through space, away from home.
+
 To me it seems this membrane is made from the same delicate silk that divides life from death. Once it is ripped,
 it is not reversible. If it got destroyed, ’us’ will leave and
 at most continues to exist in digital epitaphs like this one.
@@ -1016,7 +1022,7 @@ stops glowing eventually. No matter what.
 
 <!-- -->
 
-## others
+## others { class="red"}
 
 {{< rawhtml >}}
 <br>
@@ -1090,7 +1096,7 @@ there are probably two kinds of people. those who
 think they are at the center of the universe and
 they are the director of it. and those who think
 they are at the center of the universe and a god is
-the director. i think both are wrong, because I
+the director. i think both are wrong, because i
 belong to the first group.
 
 \
@@ -1138,7 +1144,7 @@ meinen körper nicht konkurrieren.
 \
 /\
 \
-(müggelsee)
+(müggelsee / 2020)
 
 {{< rawhtml >}}
 <br>
@@ -1171,7 +1177,7 @@ lotus\
 
 <!-- -->
 
-## flow
+## flow { class="red"}
 
 {{< rawhtml >}}
 <br>
@@ -1246,7 +1252,7 @@ was always missing.
 
 <!-- -->
 
-## zeitgeist
+## zeitgeist { class="red"}
 
 {{< rawhtml >}}
 <br>
@@ -1425,7 +1431,16 @@ like my phone on 5G.\
 
 <!-- -->
 
-### what has been dreamt about you?
+## what has been dreamt about you? { class="red"}
+
+{{< rawhtml >}}
+<br>
+<hr class="m-0 gray-line" />
+<br>
+{{< /rawhtml >}}
+
+<!-- -->
+
 
 I never fell in love with a person but I also never felt lonely.
 I was in love with the unknown woman in my mind whenever I needed it. I constructed her to fit whatever I needed
@@ -1525,7 +1540,7 @@ being me suddenly makes sense.
 
 <!-- -->
 
-## is an orgasm a symbolic death?
+## is an orgasm a symbolic death? { class="red"}
 
 {{< rawhtml >}}
 <br>
@@ -1699,9 +1714,18 @@ ich trinke dich
 
 <!-- -->
 
-### do we see the same colors?
+## do we see the same colors? {class="red"}
 
-red vs red\
+{{< rawhtml >}}
+<br>
+<hr class="m-0 gray-line" />
+<br>
+{{< /rawhtml >}}
+
+<!-- -->
+
+### red vs red
+
 your red\
 or mine?\
 my tongue\
@@ -1757,7 +1781,17 @@ against my dick\
 
 <!-- -->
 
-### spiegeldysmorphie
+## spiegel { class="red"}
+
+{{< rawhtml >}}
+<br>
+<hr class="m-0 gray-line" />
+<br>
+{{< /rawhtml >}}
+
+<!-- -->
+
+### dysmorphie
 
 mein gesicht, im spiegel.\
 gespiegelt im wasser.\
@@ -1821,14 +1855,14 @@ der spiegel ist es nicht.\
 
 ### lovers
 
-a mirror in one hand\
-a stone in the other\
+~~a mirror in one hand~~\
+~~a stone in the other~~\
 a phone in one hand\
 a phone in the other\
 \
 /\
 \
-(yakushima 2017 / berlin 2020)
+(berlin / 2020)
 
 {{< rawhtml >}}
 <br>
@@ -1857,7 +1891,7 @@ i see you in mine.\
 
 <!-- -->
 
-## in how many minds do you exist?
+## in how many minds do you exist? { class="red"}
 
 {{< rawhtml >}}
 <br>
@@ -1876,7 +1910,7 @@ existence a lot. The universe’s perception of itself through
 me and of me? Probably all of it, maybe none of it. But it
 is very likely that either the universe or someone else has
 a more realistic image of myself than I do. Which again,
-lets me question the concept of ego. It is nice to know that
+lets me question the concept of self/ego. It is nice to know that
 I exist in many minds and server racks, even after my death. Although I claim not to care about what other people
 think of me, I think my ego does. Not so sure how much
 I care what computers think of me. All this and my ego
@@ -1913,7 +1947,7 @@ one.
 
 <!-- -->
 
-## LMGTFY (Let Me Google That For You)
+## LMGTFY (Let Me Google That For You) { class="red"}
 
 {{< rawhtml >}}
 <br>
