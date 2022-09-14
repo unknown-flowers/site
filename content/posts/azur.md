@@ -1,7 +1,7 @@
 ---
 title: "azur"
 date: 2022-09-13T13:25:38+02:00
-draft: true
+draft: false
 link: "azur"
 ---
 
