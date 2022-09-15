@@ -4029,6 +4029,8 @@ textarea.form-control-lg {
   display: flex;
   flex-direction: column;
   padding-left: 0;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
   margin-bottom: 0;
   list-style: none;
 }
@@ -4056,7 +4058,7 @@ textarea.form-control-lg {
   padding: 1rem;
   font-size: 1.25rem;
   line-height: 1;
-  /* background-color: transparent; */
+  background-color: transparent;
   border: none;
   z-index: 2000;
 }
@@ -4071,6 +4073,11 @@ textarea.form-control-lg {
 .navbar-toggler:focus {
   text-decoration: none;
   outline: 0;
+}
+
+.nav-item{
+  padding-top: .5rem;
+  padding-bottom: .5rem;
 }
 
 .navbar-toggler-icon {
@@ -11295,8 +11302,7 @@ p.lead {
 }
 
 #sideNav {
-  padding-right: 5rem;
-  text-align: right;
+  text-align: center;
   background-color: white
 }
 #sideNav .navbar-nav .nav-item .nav-link {
