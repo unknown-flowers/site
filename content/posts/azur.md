@@ -153,11 +153,11 @@ The obviousness, the implicitness of the light, suddenly gone.
 The world stops and shrinks to the size of a goldfish pond.
 All the different worlds the customers brought in their heads, merge into this tiny room, into a single tiny world.
 And for a short while, only this one world exists and we all live in it together, in a single hemisphere of darkness.
-Connected by the malfunction of the taken-for-granted, by the absence of the artificial day, connected by the instinct of being scared in the dark.
-A tiny world, disconnected, surrounded by a darkness like fish in the aquamarine infinity of a nightly ocean.
+Ruled by the malfunction of the taken-for-granted, by the absence of the artificial day, connected by the instinct of being scared in the dark.
+A tiny world, disconnected, its tiny population surrounded by a darkness like fish in the aquamarine infinity of a nightly ocean.
 \
 \
-I can feel how fragile our world is, how we all are scared in the dark.
+This is when I can feel how fragile our world is, how we all are scared in the dark.
 When the lights, fans and freezers die a quiet, collective and unexpected death, when strangers suddenly realize that they belong to the same species.
 When the distance between us gets switched off like the lights.
 Then we feel how absurd it is to be attached to anything in this transience and uncertainty.
