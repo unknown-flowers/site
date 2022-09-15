@@ -3914,7 +3914,10 @@ textarea.form-control-lg {
 .nav-link {
   display: block;
   text-decoration: none;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
+
 @media (prefers-reduced-motion: reduce) {
   .nav-link {
     transition: none;
@@ -4003,6 +4006,8 @@ textarea.form-control-lg {
   justify-content: space-between;
   line-height: var(--bs-body-line-height);
   font-size: var(--bs-body-font-size);
+  background: white;
+  text-align: center;
 }
 .navbar > .container,
 .navbar > .container-fluid,
@@ -4252,6 +4257,10 @@ textarea.form-control-lg {
     flex-grow: 0;
     padding: 0;
     overflow-y: visible;
+  }
+  .nav-link {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
   }
 }
 @media (min-width: 1200px) {
