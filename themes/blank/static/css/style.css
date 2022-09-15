@@ -4262,6 +4262,10 @@ textarea.form-control-lg {
     margin-top: 0rem;
     margin-bottom: 0rem;
   }
+  .nav-item {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+  }
 }
 @media (min-width: 1200px) {
   .navbar-expand-xl {
@@ -11275,7 +11279,7 @@ textarea.form-control-lg {
   }
 }
 body {
-  padding-top: 3.375rem;
+  /* padding-top: 3.375rem; */
   color: #000;
 }
 
