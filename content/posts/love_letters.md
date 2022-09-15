@@ -580,7 +580,7 @@ will be gone forever. The concept of eternity suddenly became real, the concept 
 real. Within a second. Parents, grand parents, sister, friends, dog. We all will be gone for eternity. Eternity rushed
 into my awareness, into my reality, into all the innocence.
 It was violently burned into my synapses permanently.
-Prior to this, live was like playing with toys in a bathtub.
+Prior to this, life was like playing with toys in a bathtub.
 Now, suddenly, I was floating in an infinite ocean without knowing how to swim.
 Alone.
 
