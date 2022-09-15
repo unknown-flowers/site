@@ -421,10 +421,8 @@ watched us falling\
 
 do parallels converge in infinity?
 
-have we always been contained in each other and\
-now we just randomly met?\
-like a poem that always existed and now is\
-eventually read.\
+have we always been contained in each other and now we just randomly met?\
+like a poem that always existed and now is eventually read.\
 \
 /\
 \
