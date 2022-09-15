@@ -13,13 +13,13 @@
 <!-- 	</div> -->
 <!-- </aside> -->
 <!-- Navigation-->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="sideNav">
-    <a class="navbar-brand js-scroll-trigger" href="#page-top">
-    <!-- <span data-text='unknown.flowers' class="glitch">unknown.flowers</span>-->
-    </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+<nav class="navbar navbar-expand-lg navbar-light fixed-bottom" id="sideNav">
+    <!-- <a class="navbar-brand js-scroll-trigger" href="#page-top"></a> -->
+
+
     <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav">
+        <ul class="navbar-nav" id="navbarNav">
 		    {{ range (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
             <li class="{{ .Page.Params.Color }} nav-item"><a class="nav-link js-scroll-trigger {{ .Page.Params.Color }}" href="{{ .RelPermalink }}">{{ .Page.Params.Link }}</a></li>
 			{{ end }}

@@ -229,8 +229,8 @@ a {
 }
 a:hover {
 }
+
 a:active {
-  color: red;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -3913,7 +3913,6 @@ textarea.form-control-lg {
 
 .nav-link {
   display: block;
-  color: #000;
   text-decoration: none;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -3922,10 +3921,9 @@ textarea.form-control-lg {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: #000;
+  text-style: italic;
 }
 .nav-link.disabled {
-  color: #000;
   pointer-events: none;
   cursor: default;
 }
@@ -4052,11 +4050,15 @@ textarea.form-control-lg {
 }
 
 .navbar-toggler {
-  padding: 0.25rem 0.75rem;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding: 1rem;
   font-size: 1.25rem;
   line-height: 1;
-  background-color: transparent;
+  /* background-color: transparent; */
   border: none;
+  z-index: 2000;
 }
 @media (prefers-reduced-motion: reduce) {
   .navbar-toggler {
@@ -4404,19 +4406,22 @@ textarea.form-control-lg {
 }
 
 .navbar-light .navbar-brand {
-  color: rgba(0, 0, 0, 1);
+  /* color: rgba(0, 0, 0, 1); */
 }
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
-  color: rgba(0, 0, 0, 1);
+  /* color: rgba(0, 0, 0, 1); */
 }
 .navbar-light .navbar-nav .nav-link {
-  color: rgba(0, 0, 0, 1);
+  /* color: rgba(0, 0, 0, 1); */
 }
 .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
-  color: rgba(0, 0, 0, 1);
+  /* color: rgba(0, 0, 0, 1); */
 }
 .navbar-light .navbar-nav .nav-link.disabled {
-  color: rgba(0, 0, 0, 1);
+  /* color: rgba(0, 0, 0, 1); */
+}
+.navbar-nav{
+  background-color: white;
 }
 .navbar-light .navbar-nav .show > .nav-link,
 .navbar-light .navbar-nav .nav-link.active {
@@ -11290,8 +11295,9 @@ p.lead {
 }
 
 #sideNav {
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-right: 5rem;
+  text-align: right;
+  background-color: white
 }
 #sideNav .navbar-nav .nav-item .nav-link {
   text-transform: none;
@@ -11329,6 +11335,7 @@ p.lead {
     flex-grow: 0;
     width: 100%;
     margin-bottom: auto;
+    background-color: white;
   }
   #sideNav .navbar-collapse .navbar-nav {
     flex-direction: column;
@@ -11369,7 +11376,7 @@ section.resume-section {
   align-items: center;
   padding-left: 1rem;
   padding-right: 1rem;
-  padding-top: 5rem;
+  padding-top: 0rem;
   padding-bottom: 5rem;
   max-width: 75rem;
 }
@@ -11386,8 +11393,17 @@ section.resume-section .resume-section-content {
   section.resume-section {
     padding-left: 3rem;
     padding-right: 3rem;
-    padding-top: 5rem;
+  padding-top: 0rem;
     padding-bottom: 5rem;
   }
 }
 
+.footer-line {
+  position: relative;
+  z-index:2000;
+  bottom: 0;
+  left: -17rem;
+  height: 30px;
+  width: 100%;
+  border-bottom: 4px solid red;
+}
