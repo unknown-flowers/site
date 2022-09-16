@@ -1938,7 +1938,7 @@ one.
 
 {{< rawhtml >}}
 <br>
-<hr class="m-0" />
+<hr class="m-0 hr-red" />
 <br>
 {{< /rawhtml >}}
 
@@ -1948,7 +1948,7 @@ one.
 
 {{< rawhtml >}}
 <br>
-<hr class="m-0" />
+<hr class="m-0 hr-red" />
 <br>
 {{< /rawhtml >}}
 
