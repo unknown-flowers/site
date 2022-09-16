@@ -494,9 +494,8 @@ u\
 
 expiry dates
 
-you are afraid nobody wants to fuck you any more\
-when you get older. i was searching for a condom\
-in my shelf and found a whole pack, that was expired.\
+you are afraid nobody wants to fuck you any more when you get older.\
+i was searching for a condom in my shelf and found a whole pack, that was expired.\
 \
 /\
 \
@@ -1945,7 +1944,7 @@ one.
 
 <!-- -->
 
-## LMGTFY (Let Me Google That For You) { class="red"}
+## LMGTFY { class="red"}
 
 {{< rawhtml >}}
 <br>
@@ -1987,7 +1986,7 @@ an infinite number of times across infinite time or space.
 - Chinese Boxes: A set of boxes of graduated size, each
 fitting inside the next larger box.
 - Two lovers: riza, safavid period, c. 1630
-- Ikebana: Ärranging flowersör ”making flowers aliveïs the
+- Ikebana: Arranging flowersr ”making flowers alive is the
 Japanese art of flower arrangement.
 - MILF: Mom I’d Like to Fuck, or Mature I’d Like to Fuck.
 - Amor Fati: A Latin phrase translated as ”love of fate”,
@@ -1998,16 +1997,14 @@ Friedrich Nietzsche
 - An Eternal Golden Braid: A book by Douglas
 Hofstadter, that expounds concepts fundamental to
 mathematics, symmetry and intelligence.
-- Monade: The term monad (from Ancient Greek �����
-(monas) ’unity’, and ����� (monos) ’alone’) is used in some
+- Monade: The term monad (from Ancient Greek μονάς (monas) 'unity', and μόνος (monos) ’alone’) is used in some
 cosmic philosophy and cosmogony to refer to a most basic
 or original substance. As originally conceived by the
 Pythagoreans, the Monad is the Supreme Being, divinity
 or the totality of all things.
 - XOR: XOR gate, exclusive OR, is a digital logic gate that
 gives a true output when only one of the inputs is true.
-- Holons: A holon (Greek: ����, from ����, holos, ’whole’ and
--��, -on, ’part’) is something that is simultaneously a
+- Holons: A holon (Greek: ὅλον, from ὅλος, holos, 'whole' and -ον, -on, 'part') is something that is simultaneously a
 whole in and of itself, as well as a part of a larger whole.
 In other words, holons can be understood as the
 constituent part–wholes of a hierarchy.
@@ -2063,3 +2060,4 @@ where there is none..
 itself or of its type. In mathematics, where a function
 being defined is applied within its own definition.
 - TL;DR: Too Long; Don’t Read.
+- LMGTFY: Let Me Google That For You
