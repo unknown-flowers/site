@@ -1759,7 +1759,7 @@ on your face.\
 
 <!-- -->
 
-### red vs pink
+### 69 red vs 96 pink
 
 my tongue\
 against your lips\
@@ -1768,7 +1768,7 @@ against my dick\
 \
 /\
 \
-(berlin / 2020)
+(berlin / 2069)
 
 {{< rawhtml >}}
 <br>
@@ -2009,7 +2009,7 @@ whole in and of itself, as well as a part of a larger whole.
 In other words, holons can be understood as the
 constituent part–wholes of a hierarchy.
 - 幽玄: Yugen, in the Chinese philosophical texts the term
-meant ”dim”, ”deepör ”mysterious”. Yūgen suggests that
+meant ”dim”, ”deeper ”mysterious”. Yūgen suggests that
 which is beyond what can be said, but it is not an allusion
 to another world. It is about this world, this experience.
 - Penumbra: The penumbra (from the Latin paene
@@ -2029,12 +2029,12 @@ death of a person, that happens when an angered god
 takes a person away.
 - Mono no aware Mono no aware (物の哀れ), literally
 ”the pathos of things”, and also translated as än empathy
-toward things”, or ä sensitivity to ephemera”, is a
+toward things”, or a sensitivity to ephemera”, is a
 Japanese idiom for the awareness of impermanence (無常,
 mujō), or transience of things, and both a transient gentle
 sadness at their passing as well as a longer, deeper gentle
 sadness about this state being the reality of life.
-Plum Rain: east asian rainy season
+- Plum Rain: east asian rainy season
 - Laminar flow: In fluid dynamics, laminar flow is
 characterized by fluid particles following smooth paths in
 layers, with each layer moving smoothly past the adjacent
@@ -2054,7 +2054,7 @@ memory can flip a bit, turning a 0 into a 1 or vice versa.
 person in order to gain and/or give sexual pleasure
 - Pareidolia: is the tendency for perception to impose a
 meaningful interpretation on a nebulous stimulus, usually
-- visual, so that one sees an object, pattern, or meaning
+visual, so that one sees an object, pattern, or meaning
 where there is none..
 - Recursion: occurs when a thing is defined in terms of
 itself or of its type. In mathematics, where a function
