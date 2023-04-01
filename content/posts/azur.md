@@ -169,7 +169,7 @@ Half relieved, half amused.
 The farouche Italian woman with the light dress on tainted skin, suddenly recommends the Burrata cheese.
 The sweaty face starts singing much louder than before.
 The fans and freezers resurrect and start humming again.
-And the invisible knot unties and lets us escape the flickering neon light, as strangers, back into the darkness of the nightly streets, the darkness of our very own little worlds, with ourselves as the sun, at the centre of its universe.
+And the invisible knot unties and lets us escape the flickering neon light, as strangers, back into the darkness of the nightly streets, the darkness of our very own little worlds with ourselves as the sun at the centre of its universe.
 Forgetting the fears, forgetting the touch of mortality, attaching back to the implicitness of light, the implicitness of lightness of being.
 Continuing to live with our eyes firmly shut.
 While in the pond the goldfish are floating.
