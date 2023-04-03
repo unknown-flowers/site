@@ -1,7 +1,7 @@
 ---
 title: "azur"
 date: 2022-09-13T13:25:38+02:00
-draft: false
+draft: true
 link: "azur"
 color: "azure"
 ---
@@ -101,7 +101,7 @@ infinity.\
 surreal, real.\
 \
 sun and gentle wind.\
-shadows and amaranth blossoms.\
+shadows and violet blossoms.\
 strolling like cats.\
 finding without searching.\
 \
